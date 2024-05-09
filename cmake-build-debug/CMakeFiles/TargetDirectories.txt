@@ -1,0 +1,3 @@
+/Users/kacperpietka/CLionProjects/Hex/cmake-build-debug/CMakeFiles/Hex.dir
+/Users/kacperpietka/CLionProjects/Hex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kacperpietka/CLionProjects/Hex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
